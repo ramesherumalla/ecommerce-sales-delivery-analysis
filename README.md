@@ -308,4 +308,6 @@ Late orders score **about 1.1 stars lower**. The drop appears as soon as an orde
 
 **Ramesh Erumalla**
 Junior Data Analyst | Excel · SQL · Power BI
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ramesh-erumalla-bb897b297/)
+💻 [GitHub](https://github.com/ramesherumalla)
